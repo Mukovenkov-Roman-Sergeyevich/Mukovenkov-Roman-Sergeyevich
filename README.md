@@ -19,7 +19,7 @@ And just like her, I went on a journey to find the truth in the world of hardwar
 ## 📖 My Story So Far...
 
 ### My First Sparkle ✨ (Before Coursework)
-A long, long time ago... I had a tiny, tiny bit of experience with FPGAs! I played with a Gowin FPGA at a summer school, making a little state machine with buttons. It was my first time saying "Hello!" to SystemVerilog! ( ´ ▽ ` )ﾉ
+A long, long time ago... I had a tiny, tiny 🌱 bit of experience with FPGAs! I played with a Gowin FPGA at a summer school, making a little state machine with buttons 🔴. It was my first time saying "Hello!" 👋 to SystemVerilog! ( ´ ▽ ` )ﾉ
 
 ### My Big Coursework Adventure! 🚀 (LiteX & SCR1)
 This was my masterpiece! I protected my coursework on [adding the SCR1 core to the LiteX automatic SoC build system](https://github.com/Mukovenkov-Roman-Sergeyevich/scr1-colorlight-i9-litex)!
@@ -34,11 +34,11 @@ I made a donut spin on the FPGA, travel through the adapter, and show up in my c
 </p>
 
 ### YADRO's Digital Circuit School! 🏫
-During my second year, I went to the [School of Digital Circuit Synthesis](https://engineer.yadro.com/chip-design-school/)! All the lectures are [on YouTube](https://www.youtube.com/channel/UCqDmnd8PoScGaBbwnbsyy1g). It was amazing for learning SystemVerilog and hardware architecture with a focus on practice! We learned about cache coherence, pipelining, and educational systems. I LOVED the homework on pipeline conflicts. It's a must-have for this field! At the end, there was a party with pizza and a cute over the shoulder bag! 🍕👜
+During my second year, I went to the [School of Digital Circuit Synthesis](https://engineer.yadro.com/chip-design-school/)! All the lectures are [on YouTube](https://www.youtube.com/channel/UCqDmnd8PoScGaBbwnbsyy1g). It was amazing for learning SystemVerilog and hardware architecture 🧠💻 with a focus on practice! We learned about cache coherence, pipelining, and educational systems. I **absolutely LOVED ❤️** the homework on pipeline conflicts. It's a must-have for this field! At the end, there was a party with pizza and a cute over the shoulder bag! 🍕👜
 
 ### My C-Language Power! 💪💖
-Oh, how I envy C-chan! (//ω//) I love her simplicity! And I especially love how her code becomes almost predictable assembly instructions. It's like you can see the hardware's true feelings right there! My university projects were just a little hello, but the technical assignments were where our friendship started to sparkle. Now, I dream that at work, that little sparkle will grow into an overpowering shine! ✨
+Oh, how I envy C-chan! (//ω//) I love her simplicity! And I especially love how her code becomes almost predictable assembly instructions 📜⚙️. It's like you can see the hardware's true feelings right there! My university projects were just a little hello, but the technical assignments were where our friendship started to sparkle. Now, I dream that at work, that little sparkle will grow into an overpowering shine! ✨
 
 ### Final Musings... 💭
 
-I'm just happy to be close to C-chan! Together, we will build (and verify!) great things. Great things indeed! ⛩️🎀
+I'm just happy to be close to C-chan! Together, we will build (and verify!) great things 🛠️. Great things indeed! ⛩️🎀
