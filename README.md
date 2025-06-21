@@ -5,8 +5,8 @@ Hiii everyone! (´｡• ᵕ •｡`) ♡ While all the other language-chans are
 And just like her, I went on a journey to find the truth in the world of hardware! It's a world of little bits and true parallelism, and I want to share my adventure with you!~ Let's go! 🎉
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c9d286c7-0efc-4b2d-8d88-3e0fc1a3d44a" alt="✨" width="400">
-<img src="https://github.com/user-attachments/assets/9b628a22-69ff-424f-b6b7-13e07b1378f7" alt="✨" width="400"> 
+<img src="https://github.com/user-attachments/assets/c9d286c7-0efc-4b2d-8d88-3e0fc1a3d44a" alt="✨" width="300">
+<img src="https://github.com/user-attachments/assets/9b628a22-69ff-424f-b6b7-13e07b1378f7" alt="✨" width="300"> 
 </p>
 
 ## 🗺️ My Chosen Path! 💖
