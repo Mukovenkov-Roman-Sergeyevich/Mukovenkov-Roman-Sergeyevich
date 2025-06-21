@@ -30,7 +30,8 @@ But with their automated way, you just tell the system what resources the board 
 
 I made a donut spin on the FPGA, travel through the adapter, and show up in my computer's console! It was SO COOL! Donut-kun, rock on! 🍩💖
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f385dba9-268a-411c-bde0-754818c04912" alt="✨" width="500">
+<img src="https://github.com/user-attachments/assets/f385dba9-268a-411c-bde0-754818c04912" alt="✨" width="300">
+<img src="https://github.com/user-attachments/assets/3721d405-a6f6-47c0-8d8b-2c3d6e2ea9e0" alt="✨" width="300">
 </p>
 
 ### YADRO's Digital Circuit School! 🏫
