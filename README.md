@@ -45,8 +45,8 @@ During my second year, I went to the [School of Digital Circuit Synthesis](https
 Oh, how I envy C-chan! (//ω//) I love her simplicity! And I especially love how her code becomes almost predictable assembly instructions 📜⚙️. It's like you can see the hardware's true feelings right there! My university projects were just a little hello, but the technical assignments were where our friendship started to sparkle. Now, I dream that at work, that little sparkle will grow into an overpowering shine! ✨
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/82f9b567-997a-4d6f-aada-cd0d0a3ba6bb" alt="✨" width="500">
-<img src="https://github.com/user-attachments/assets/28fe7db0-9337-4dd9-aa3a-e0a8cc488dae" alt="✨" width="500"> 
+<img src="https://github.com/user-attachments/assets/82f9b567-997a-4d6f-aada-cd0d0a3ba6bb" alt="✨" width="450">
+<img src="https://github.com/user-attachments/assets/28fe7db0-9337-4dd9-aa3a-e0a8cc488dae" alt="✨" width="450"> 
 </p>
 
 ### Final Musings... 💭
