@@ -6,10 +6,10 @@ Hiii everyone! (´｡• ᵕ •｡`) ♡ While all the other language-chans are
 And just like her, I went on a journey to find the truth in the world of hardware! It's a world of little bits and true parallelism, and I want to share my adventure with you!~ Let's go! 🎉
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b3789282-d2f5-4462-879a-7defb44eb1e0" alt="✨" width="250">
-<img src="https://github.com/user-attachments/assets/c9d286c7-0efc-4b2d-8d88-3e0fc1a3d44a" alt="✨" width="200">
-<img src="https://github.com/user-attachments/assets/9b628a22-69ff-424f-b6b7-13e07b1378f7" alt="✨" width="200"> 
-<img src="https://github.com/user-attachments/assets/e6936c3c-d4b5-4673-9088-29fcea15730b" alt="✨" width="250"> 
+<img src="https://github.com/user-attachments/assets/b3789282-d2f5-4462-879a-7defb44eb1e0" alt="✨" width="225">
+<img src="https://github.com/user-attachments/assets/c9d286c7-0efc-4b2d-8d88-3e0fc1a3d44a" alt="✨" width="175">
+<img src="https://github.com/user-attachments/assets/9b628a22-69ff-424f-b6b7-13e07b1378f7" alt="✨" width="175"> 
+<img src="https://github.com/user-attachments/assets/e6936c3c-d4b5-4673-9088-29fcea15730b" alt="✨" width="225"> 
 </p>
 
 ## 🗺️ My Chosen Path! 💖
